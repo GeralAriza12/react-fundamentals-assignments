@@ -1,5 +1,7 @@
 export function App() {
   return (
-    <div>My React App with Ada School</div>
+    <div>
+      <h1>My React App with Ada School</h1>
+    </div>
   );
 }
