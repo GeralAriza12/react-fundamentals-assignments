@@ -1,4 +1,4 @@
-export function App() {
+export default function App() {
   return (
     <div>
       <h1>My React App with Ada School</h1>
